@@ -8,10 +8,10 @@ bl_info = {
     "author": "Hedgeturd",
     "version": (1, 0, 0),
     "blender": (2, 80, 0),
-    "location": "File > Import-Export",
+    "location": "File > Export",
     "warning": "",
     "wiki_url": "",
-    "category": "Import-Export"
+    "category": "Export"
 }
 
 # Register addon classes
